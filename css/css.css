@@ -1,0 +1,94 @@
+.main h1 {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(64, 0, 255);
+    font-size: 39px;
+
+}
+
+.main p {
+    margin-left: 101px;
+    /* line-height: 30px; */
+}
+
+body {
+    background-color: black !important;
+    color: white !important;
+    font-family: 'Roboto' sans-serif;
+}
+
+.main a {
+    color: blue;
+    margin-left: 101px;
+}
+
+.main em {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    display: inline-block;
+}
+
+.siden {
+    margin-left: 0px;
+}
+
+.siden h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(56, 2, 255);
+    font-size: 39px;
+}
+
+.siden a {
+    color: rgb(0, 0, 0);
+    background-color: white;
+    
+}
+
+.my-face {
+    position: absolute;
+    right: 250px;
+    top: 220px;
+}
+
+.my-face img {
+    scale: 235%;
+}
+
+.video-1 video {
+    height: 250px;
+    width: auto;
+    border: 2px solid white;
+}
+
+.alder {
+    position: absolute;
+    right: 200px;
+    top: 450px;
+}
+
+.bildeskole1 {
+   scale: 40%;
+}
+
+.bildeskole1 {
+    position: absolute;
+    left: 10px;
+    top: 30px;
+}
+
+.bildeskole2 {
+    scale: 40%;
+
+}
+
+.bildeskole2 {
+    position: absolute;
+    left: 10px;
+    top: 300px;
+}
+
+.utdaning-link {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
